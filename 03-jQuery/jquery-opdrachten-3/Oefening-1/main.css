@@ -1,0 +1,12 @@
+body {
+  // background-color: grey;
+}
+
+#myInput {
+  display: block;
+  margin-top: 5px;
+}
+
+button {
+  padding: 5px;
+}
